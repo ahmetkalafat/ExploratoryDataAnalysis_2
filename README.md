@@ -1,1 +1,1 @@
-# ExploratoryDataAnalysis_2
+# Exploratory Data Analysis - 2. Assignment
